@@ -1,0 +1,251 @@
+body{
+  padding-top: 3rem;
+}
+h1{
+  opacity:0.1;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  opacity:0.1;
+  font-family: 'Raleway', sans-serif;
+}
+li{
+  opacity:0.1;
+  font-family: 'Raleway', sans-serif;
+}
+.navbarHead{
+  font-family: 'Montserrat', sans-serif;
+}
+.footerHead{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+.navbar-default{
+  transition:500ms ease;
+  background:#dbe2ef;
+}
+.scrolled{
+  background:#bbe1fa ;
+}
+.animation{
+  opacity:1;
+  transition:1200ms ease;
+}
+.logoFooter{
+  width: 60%;
+  height: auto;
+}
+.footerIndex{
+  background-color: white;
+  margin-bottom: 0;
+}
+.mainpg{
+  padding-bottom: 3rem;
+}
+.mainTitle{
+  padding-top: 2rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.mainHead{
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+}
+.mainTransform{
+  padding-bottom: 1rem;
+}
+.index1{
+  background-color: white;
+  background: linear-gradient(20deg, #bbe1fa 50%, #dbe2ef 50%);
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.index2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.index3{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.index4{
+  background-color: #112d4e;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.index5{
+  background-color: #393e46;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.fontBlack{
+  color: black;
+  text-align: center;
+}
+.index6{
+  background-color: #c9d6df;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.about1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.about2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.about3{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.about4{
+  background-color: #112d4e;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.about5{
+  background-color: #393e46;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.program1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.program2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.contact1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.contact2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.faq1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.testimonial1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.sitemap1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.paraSpacing{
+  padding-top: 2rem;
+  line-height: 2rem;
+}
+.carouselCustom{
+  height: 15rem;
+}
+.carouselPara{
+  padding: 2rem;
+}
+.testimonialsPara{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.mainAbout{
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.blogFont{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+@media only screen and (max-width: 734px) {
+  .lead{
+    font-size: 1.25rem;
+  }
+  .carouselCustom{
+    height: fit-content;
+  }
+  .index1{
+    height: fit-content;
+  }
+  .mainTransform{
+    font-size: 3rem;
+  }
+  .mainHead{
+    font-size: 2rem;
+  }
+  .index2{
+    height: fit-content;
+  }
+  .index3{
+    height: fit-content;
+  }
+  .index4{
+    height: fit-content;
+  }
+  .index5{
+    height: fit-content;
+  }
+  .about1{
+    height: fit-content;
+  }
+  .about2{
+    height: fit-content;
+  }
+  .about3{
+    height: fit-content;
+  }
+  .about4{
+    height: fit-content;
+  }
+  .program1{
+    height: fit-content;
+  }
+  .program2{
+    height: fit-content;
+  }
+  .program3{
+    height: fit-content;
+  }
+  .program4{
+    height: fit-content;
+  }
+  .contact1{
+    height: fit-content;
+  }
+  .contact2{
+    height: fit-content;
+  }
+  .faq1{
+    height: fit-content;
+  }
+  .testimonial1{
+    height: fit-content;
+  }
+  .sitemap1{
+    height: fit-content;
+  }
+  .carouselIndex{
+    font-size: 1rem;
+    font-weight: lighter;
+    font-stretch: condensed;
+  }
+}
